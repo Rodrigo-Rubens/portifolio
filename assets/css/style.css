@@ -2,12 +2,12 @@
 body {
     font-family: Arial, sans-serif;
     margin: 0; padding: 0;
-    background-color: #f4f4f4; color: #333;
+    background-color: #f4f4f4; color: #420254;
     }
     
     /* Estilo do cabecalho */
     header {
-    background-color: #333; color: white;
+    background-color: #420254; color: white;
     padding: 20px; text-align: center;
     }
     
@@ -26,7 +26,7 @@ body {
     
     /* Botao */
     .botao {
-    background-color: #333; color: white;
+    background-color: #420254; color: white;
     padding: 12px 24px; text-decoration: none;
     border-radius: 6px; font-weight: bold;
     }
@@ -34,7 +34,7 @@ body {
     
     /* Rodape */
     footer {
-    background-color: #333; color: white;
+    background-color: #420254; color: white;
     text-align: center; padding: 15px;
     position: fixed; bottom: 0; width: 100%;
     }
